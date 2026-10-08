@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "renderer": "gl_compatibility",
+  "threads": false,
+  "files": [
+    {
+      "name": "client-config.js",
+      "bytes": 52,
+      "sha256": "2a0b19a2dfe608c26720c73a7bd38e4a1c33aeb83469f06a4f1a2523b37f6234",
+      "parts": [
+        {
+          "path": "chunks/0000.bin",
+          "bytes": 52,
+          "sha256": "2a0b19a2dfe608c26720c73a7bd38e4a1c33aeb83469f06a4f1a2523b37f6234"
+        }
+      ]
+    },
+    {
+      "name": "index.apple-touch-icon.png",
+      "bytes": 11939,
+      "sha256": "071ccd3c3619e62c9e27995cf1afde427bb1b630767801a0fe1ac33505b2f221",
+      "parts": [
+        {
+          "path": "chunks/0001.bin",
+          "bytes": 11939,
+          "sha256": "071ccd3c3619e62c9e27995cf1afde427bb1b630767801a0fe1ac33505b2f221"
+        }
+      ]
+    },
+    {
+      "name": "index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "parts": [
+        {
+          "path": "chunks/0002.bin",
+          "bytes": 2973,
+          "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+        }
+      ]
+    },
+    {
+      "name": "index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "parts": [
+        {
+          "path": "chunks/0003.bin",
+          "bytes": 7298,
+          "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+        }
+      ]
+    },
+    {
+      "name": "index.html",
+      "bytes": 5776,
+      "sha256": "81137bc894d37c80bcb1ba1b767c7556ece20f147df037ba4173dffccadd9852",
+      "parts": [
+        {
+          "path": "chunks/0004.bin",
+          "bytes": 5776,
+          "sha256": "81137bc894d37c80bcb1ba1b767c7556ece20f147df037ba4173dffccadd9852"
+        }
+      ]
+    },
+    {
+      "name": "index.icon.png",
+      "bytes": 5765,
+      "sha256": "662f81d7672001a6f5f928532493267c226624757de3b5fa2908f6e5923964b7",
+      "parts": [
+        {
+          "path": "chunks/0005.bin",
+          "bytes": 5765,
+          "sha256": "662f81d7672001a6f5f928532493267c226624757de3b5fa2908f6e5923964b7"
+        }
+      ]
+    },
+    {
+      "name": "index.js",
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "parts": [
+        {
+          "path": "chunks/0006.bin",
+          "bytes": 279815,
+          "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+        }
+      ]
+    },
+    {
+      "name": "index.pck",
+      "bytes": 125124992,
+      "sha256": "00b672dc76b841f5841e786910f2795c4e36488b08eec8faa3e39c4f6f14dd27",
+      "parts": [
+        {
+          "path": "chunks/0007.bin",
+          "bytes": 20971520,
+          "sha256": "6591712edcbbf3ac9ce6629bdef60db835096b05d1b5d930d9821b177156762c"
+        },
+        {
+          "path": "chunks/0008.bin",
+          "bytes": 20971520,
+          "sha256": "c926d3922d7bbb0e359b282dff9c43d95259f997787161a60bc81cf412343cf3"
+        },
+        {
+          "path": "chunks/0009.bin",
+          "bytes": 20971520,
+          "sha256": "fff046c5a88172d13312c4001321d7cd0e944a483ff0676e55fb0bdf3ee1a8e7"
+        },
+        {
+          "path": "chunks/0010.bin",
+          "bytes": 20971520,
+          "sha256": "301cd4d05ae46ccf0846384f739fc0eaf4ecfc7cc8fe9f4700dca951b5657d51"
+        },
+        {
+          "path": "chunks/0011.bin",
+          "bytes": 20971520,
+          "sha256": "0de62eb4ceb063a61bdb3f9611ff8d4a70135458929b799eb00afa35653fb0d1"
+        },
+        {
+          "path": "chunks/0012.bin",
+          "bytes": 20267392,
+          "sha256": "ed217692248a15b7bc9ced62f01120e5a39a32a0b6071bd0714b63c486df38fb"
+        }
+      ]
+    },
+    {
+      "name": "index.png",
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "parts": [
+        {
+          "path": "chunks/0013.bin",
+          "bytes": 21443,
+          "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+        }
+      ]
+    },
+    {
+      "name": "index.wasm",
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "parts": [
+        {
+          "path": "chunks/0014.bin",
+          "bytes": 20971520,
+          "sha256": "9ca0d6be7c59074a68ada3d7a62818c5bcefcc7535b07fb308e88abf24527373"
+        },
+        {
+          "path": "chunks/0015.bin",
+          "bytes": 18543234,
+          "sha256": "ee347fd86d64916170f6f68ade141faf793b60dade38b6ce6a9acd83a5062538"
+        }
+      ]
+    },
+    {
+      "name": "licenses/MPLUSRounded1c-OFL.txt",
+      "bytes": 4389,
+      "sha256": "da15da6b1496d4de18f97e2ad1b722ef8a1c121149c2c93b2cf7eac6ac27b35c",
+      "parts": [
+        {
+          "path": "chunks/0016.bin",
+          "bytes": 4389,
+          "sha256": "da15da6b1496d4de18f97e2ad1b722ef8a1c121149c2c93b2cf7eac6ac27b35c"
+        }
+      ]
+    }
+  ]
+}

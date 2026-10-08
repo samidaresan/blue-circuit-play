@@ -1,0 +1,20 @@
+# Prepare a Free Python relay. Applying this file/deploying is a manual user step.
+services:
+  - type: web
+    name: blue-circuit-relay
+    runtime: python
+    plan: free
+    region: singapore
+    numInstances: 1
+    rootDir: server
+    buildCommand: python -m py_compile relay_server.py
+    startCommand: python relay_server.py --host 0.0.0.0 --root public
+    healthCheckPath: /health
+    autoDeployTrigger: "off"
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.15"
+    buildFilter:
+      paths:
+        - server/**
+        - render.yaml
